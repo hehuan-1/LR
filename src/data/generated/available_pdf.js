@@ -1,1 +1,0 @@
-define({availablePdf: ["BDCC-08-00199-v2"]});
